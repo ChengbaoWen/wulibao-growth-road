@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.serialization;
+package com.wulibao.provider.serialization;
 
-import com.wulibao.provider.test.design.pattern.creational.prototype.util.CopyUtil;
+import com.wulibao.provider.design.pattern.creational.prototype.util.CopyUtil;
 import lombok.Builder;
 import lombok.Data;
 

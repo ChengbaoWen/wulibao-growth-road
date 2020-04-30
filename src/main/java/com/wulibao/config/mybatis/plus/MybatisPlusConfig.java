@@ -1,4 +1,4 @@
-package com.wulis.config.mybatis.plus;
+package com.wulibao.config.mybatis.plus;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Bean;
@@ -15,7 +15,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.optimize.JsqlParser
  */
 @Configuration
 @EnableTransactionManagement
-@MapperScan("com.wulis.**.mapper")
+@MapperScan("com.wulibao.**.mapper")
 public class MybatisPlusConfig {
     
     /**

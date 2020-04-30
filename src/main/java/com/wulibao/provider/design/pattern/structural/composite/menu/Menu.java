@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.composite.menu;
+package com.wulibao.provider.design.pattern.structural.composite.menu;
 
 import java.util.ArrayList;
 import java.util.List;

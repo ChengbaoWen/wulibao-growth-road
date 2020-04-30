@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service;
+package com.wulibao.provider.design.pattern.structural.adapter.player.audio.service;
 
 /**
  * 音频播放器顶级接口

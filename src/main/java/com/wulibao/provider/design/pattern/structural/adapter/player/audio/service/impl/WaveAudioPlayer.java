@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service.impl;
+package com.wulibao.provider.design.pattern.structural.adapter.player.audio.service.impl;
 
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service.AudioMediaService;
+import com.wulibao.provider.design.pattern.structural.adapter.player.audio.service.AudioMediaService;
 import org.springframework.lang.NonNull;
 
 /**

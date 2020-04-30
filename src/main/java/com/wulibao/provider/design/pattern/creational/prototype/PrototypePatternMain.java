@@ -1,7 +1,7 @@
-package com.wulibao.provider.test.design.pattern.creational.prototype;
+package com.wulibao.provider.design.pattern.creational.prototype;
 
-import com.wulibao.provider.test.design.pattern.creational.prototype.color.Color;
-import com.wulibao.provider.test.design.pattern.creational.prototype.color.ColorCloneFactory;
+import com.wulibao.provider.design.pattern.creational.prototype.color.Color;
+import com.wulibao.provider.design.pattern.creational.prototype.color.ColorCloneFactory;
 
 /**
  * 原型模式

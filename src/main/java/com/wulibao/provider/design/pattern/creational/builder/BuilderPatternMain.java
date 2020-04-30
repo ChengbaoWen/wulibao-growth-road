@@ -1,10 +1,10 @@
-package com.wulibao.provider.test.design.pattern.creational.builder;
+package com.wulibao.provider.design.pattern.creational.builder;
 
-import com.wulibao.provider.test.design.pattern.creational.builder.item.drink.CoffeeDrinkItemServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.builder.meal.Meal;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.burger.BeefBurgerItemServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.burger.VegBurgerItemServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.drink.ColaDrinkItemServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.item.drink.CoffeeDrinkItemServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.meal.Meal;
+import com.wulibao.provider.design.pattern.creational.builder.item.burger.BeefBurgerItemServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.item.burger.VegBurgerItemServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.item.drink.ColaDrinkItemServiceImpl;
 
 /**
  * 建造者设计模式

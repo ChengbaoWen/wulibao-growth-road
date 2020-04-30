@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.filter.filter;
+package com.wulibao.provider.design.pattern.structural.filter.filter;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

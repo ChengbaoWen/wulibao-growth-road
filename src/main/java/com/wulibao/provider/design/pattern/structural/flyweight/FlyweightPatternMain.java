@@ -1,7 +1,7 @@
-package com.wulibao.provider.test.design.pattern.structural.flyweight;
+package com.wulibao.provider.design.pattern.structural.flyweight;
 
-import com.wulibao.provider.test.design.pattern.structural.flyweight.color.ColorFactory;
-import com.wulibao.provider.test.design.pattern.structural.flyweight.color.service.impl.ColorImpl;
+import com.wulibao.provider.design.pattern.structural.flyweight.color.ColorFactory;
+import com.wulibao.provider.design.pattern.structural.flyweight.color.service.impl.ColorImpl;
 
 /**
  * 享元模式

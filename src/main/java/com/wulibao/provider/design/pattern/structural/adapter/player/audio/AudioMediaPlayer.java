@@ -1,11 +1,11 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player.audio;
+package com.wulibao.provider.design.pattern.structural.adapter.player.audio;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service.AudioMediaService;
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service.impl.Mp3AudioPlayer;
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.audio.service.impl.WaveAudioPlayer;
+import com.wulibao.provider.design.pattern.structural.adapter.player.audio.service.AudioMediaService;
+import com.wulibao.provider.design.pattern.structural.adapter.player.audio.service.impl.Mp3AudioPlayer;
+import com.wulibao.provider.design.pattern.structural.adapter.player.audio.service.impl.WaveAudioPlayer;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service.impl;
+package com.wulibao.provider.design.pattern.structural.adapter.player.video.service.impl;
 
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service.VideoMediaService;
+import com.wulibao.provider.design.pattern.structural.adapter.player.video.service.VideoMediaService;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.flyweight.color.service.impl;
+package com.wulibao.provider.design.pattern.structural.flyweight.color.service.impl;
 
-import com.wulibao.provider.test.design.pattern.structural.flyweight.color.service.Color;
+import com.wulibao.provider.design.pattern.structural.flyweight.color.service.Color;
 
 /**
  * @author WuliBao

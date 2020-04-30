@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.singleton;
+package com.wulibao.provider.design.pattern.creational.singleton;
 
 /**
  * 登记式/静态内部类，线程安全

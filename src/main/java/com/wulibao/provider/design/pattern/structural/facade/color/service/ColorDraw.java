@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.facade.color.service;
+package com.wulibao.provider.design.pattern.structural.facade.color.service;
 
 /**
  * @author WuliBao

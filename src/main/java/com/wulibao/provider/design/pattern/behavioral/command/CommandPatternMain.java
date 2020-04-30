@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.behavioral.command;
+package com.wulibao.provider.design.pattern.behavioral.command;
 
 /**
  * 命令模式

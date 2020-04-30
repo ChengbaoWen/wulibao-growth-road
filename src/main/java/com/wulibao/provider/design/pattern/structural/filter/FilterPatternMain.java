@@ -1,12 +1,12 @@
-package com.wulibao.provider.test.design.pattern.structural.filter;
+package com.wulibao.provider.design.pattern.structural.filter;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.PersonFilter;
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.service.impl.AgeCriteria;
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.service.impl.SexCriteria;
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.Person;
+import com.wulibao.provider.design.pattern.structural.filter.filter.PersonFilter;
+import com.wulibao.provider.design.pattern.structural.filter.filter.service.impl.AgeCriteria;
+import com.wulibao.provider.design.pattern.structural.filter.filter.service.impl.SexCriteria;
+import com.wulibao.provider.design.pattern.structural.filter.filter.Person;
 
 /**
  * 过滤模式

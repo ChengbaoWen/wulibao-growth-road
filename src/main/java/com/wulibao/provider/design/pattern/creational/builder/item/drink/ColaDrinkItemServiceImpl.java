@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item.drink;
+package com.wulibao.provider.design.pattern.creational.builder.item.drink;
 
 /**
  * @author WuliBao

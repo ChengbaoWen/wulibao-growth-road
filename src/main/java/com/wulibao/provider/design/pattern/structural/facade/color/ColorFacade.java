@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.structural.facade.color;
+package com.wulibao.provider.design.pattern.structural.facade.color;
 
-import com.wulibao.provider.test.design.pattern.structural.facade.color.service.ColorDraw;
-import com.wulibao.provider.test.design.pattern.structural.facade.color.service.impl.BlueColor;
-import com.wulibao.provider.test.design.pattern.structural.facade.color.service.impl.RedColor;
+import com.wulibao.provider.design.pattern.structural.facade.color.service.ColorDraw;
+import com.wulibao.provider.design.pattern.structural.facade.color.service.impl.BlueColor;
+import com.wulibao.provider.design.pattern.structural.facade.color.service.impl.RedColor;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter;
+package com.wulibao.provider.design.pattern.structural.adapter;
 
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.VideoMediaPlayer;
+import com.wulibao.provider.design.pattern.structural.adapter.player.VideoMediaPlayer;
 
 /**
  * 适配器模式

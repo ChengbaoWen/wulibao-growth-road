@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.facade;
+package com.wulibao.provider.design.pattern.structural.facade;
 
-import com.wulibao.provider.test.design.pattern.structural.facade.color.ColorFacade;
+import com.wulibao.provider.design.pattern.structural.facade.color.ColorFacade;
 
 /**
  * 外观模式

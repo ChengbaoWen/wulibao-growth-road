@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit;
+package com.wulibao.provider.design.pattern.creational.abstracted.factory.suit;
 
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.clothes.ClothesService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.shoes.ShoseService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.trousers.TrousersService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.clothes.ClothesService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.shoes.ShoseService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.trousers.TrousersService;
 
 /**
  * @author WuliBao

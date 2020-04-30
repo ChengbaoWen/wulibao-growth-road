@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service;
+package com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service;
 
 /**
  * @author WuliBao

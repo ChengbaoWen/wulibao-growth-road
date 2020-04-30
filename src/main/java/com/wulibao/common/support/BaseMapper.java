@@ -1,4 +1,4 @@
-package com.wulis.common.support;
+package com.wulibao.common.support;
 
 import java.util.List;
 

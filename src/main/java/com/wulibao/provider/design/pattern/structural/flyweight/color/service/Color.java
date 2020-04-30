@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.flyweight.color.service;
+package com.wulibao.provider.design.pattern.structural.flyweight.color.service;
 
 /**
  * @author WuliBao

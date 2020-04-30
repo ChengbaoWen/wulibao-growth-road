@@ -1,4 +1,4 @@
-package com.wulis.config.mybatis.plus.method;
+package com.wulibao.config.mybatis.plus.method;
 
 import org.apache.ibatis.executor.keygen.Jdbc3KeyGenerator;
 import org.apache.ibatis.executor.keygen.KeyGenerator;

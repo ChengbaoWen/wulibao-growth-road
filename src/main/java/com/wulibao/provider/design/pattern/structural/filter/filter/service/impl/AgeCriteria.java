@@ -1,9 +1,9 @@
-package com.wulibao.provider.test.design.pattern.structural.filter.filter.service.impl;
+package com.wulibao.provider.design.pattern.structural.filter.filter.service.impl;
 
 import org.springframework.lang.NonNull;
 
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.Person;
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.service.Criteria;
+import com.wulibao.provider.design.pattern.structural.filter.filter.Person;
+import com.wulibao.provider.design.pattern.structural.filter.filter.service.Criteria;
 
 /**
  * @author WuliBao

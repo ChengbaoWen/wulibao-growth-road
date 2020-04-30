@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item;
+package com.wulibao.provider.design.pattern.creational.builder.item;
 
-import com.wulibao.provider.test.design.pattern.creational.builder.item.pack.PackService;
+import com.wulibao.provider.design.pattern.creational.builder.item.pack.PackService;
 
 /**
  * @author WuliBao

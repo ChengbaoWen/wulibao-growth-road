@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.proxy.dance.service.impl;
+package com.wulibao.provider.design.pattern.structural.proxy.dance.service.impl;
 
-import com.wulibao.provider.test.design.pattern.structural.proxy.dance.service.Dance;
+import com.wulibao.provider.design.pattern.structural.proxy.dance.service.Dance;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.composite;
+package com.wulibao.provider.design.pattern.structural.composite;
 
-import com.wulibao.provider.test.design.pattern.structural.composite.menu.Menu;
+import com.wulibao.provider.design.pattern.structural.composite.menu.Menu;
 
 /**
  * 组合模式

@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.decorator.car.service;
+package com.wulibao.provider.design.pattern.structural.decorator.car.service;
 
 /**
  * @author WuliBao

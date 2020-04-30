@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.creational.factory.color.impl;
+package com.wulibao.provider.design.pattern.creational.factory.color.impl;
 
-import com.wulibao.provider.test.design.pattern.creational.factory.color.ColorService;
+import com.wulibao.provider.design.pattern.creational.factory.color.ColorService;
 
 /**
  * @author WuliBao

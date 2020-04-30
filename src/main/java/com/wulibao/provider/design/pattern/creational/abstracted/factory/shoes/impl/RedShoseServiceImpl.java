@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.creational.abstracted.factory.shoes.impl;
+package com.wulibao.provider.design.pattern.creational.abstracted.factory.shoes.impl;
 
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.shoes.ShoseService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.shoes.ShoseService;
 
 /**
  * @author WuliBao

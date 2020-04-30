@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item.drink;
+package com.wulibao.provider.design.pattern.creational.builder.item.drink;
 
-import com.wulibao.provider.test.design.pattern.creational.builder.item.ItemService;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.pack.PackService;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.pack.impl.CupPackServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.item.ItemService;
+import com.wulibao.provider.design.pattern.creational.builder.item.pack.PackService;
+import com.wulibao.provider.design.pattern.creational.builder.item.pack.impl.CupPackServiceImpl;
 
 /**
  * @author WuliBao

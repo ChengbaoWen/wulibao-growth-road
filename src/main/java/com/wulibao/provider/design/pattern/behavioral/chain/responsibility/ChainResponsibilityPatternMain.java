@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility;
+package com.wulibao.provider.design.pattern.behavioral.chain.responsibility;
 
-import com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service.impl.ChimpanzeeChain;
-import com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service.impl.MonkeyChain;
-import com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service.impl.TigerChain;
+import com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service.impl.ChimpanzeeChain;
+import com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service.impl.MonkeyChain;
+import com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service.impl.TigerChain;
 
 /**
  * 责任链模式

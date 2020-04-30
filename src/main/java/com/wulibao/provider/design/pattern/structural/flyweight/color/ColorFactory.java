@@ -1,7 +1,7 @@
-package com.wulibao.provider.test.design.pattern.structural.flyweight.color;
+package com.wulibao.provider.design.pattern.structural.flyweight.color;
 
-import com.wulibao.provider.test.design.pattern.structural.flyweight.color.service.Color;
-import com.wulibao.provider.test.design.pattern.structural.flyweight.color.service.impl.ColorImpl;
+import com.wulibao.provider.design.pattern.structural.flyweight.color.service.Color;
+import com.wulibao.provider.design.pattern.structural.flyweight.color.service.impl.ColorImpl;
 
 import java.util.HashMap;
 

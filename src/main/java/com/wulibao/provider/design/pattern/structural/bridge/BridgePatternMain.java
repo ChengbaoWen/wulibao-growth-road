@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.structural.bridge;
+package com.wulibao.provider.design.pattern.structural.bridge;
 
-import com.wulibao.provider.test.design.pattern.structural.bridge.color.DrawColor;
-import com.wulibao.provider.test.design.pattern.structural.bridge.color.service.impl.BlueColorServiceImpl;
-import com.wulibao.provider.test.design.pattern.structural.bridge.color.service.impl.RedColorServiceImpl;
+import com.wulibao.provider.design.pattern.structural.bridge.color.DrawColor;
+import com.wulibao.provider.design.pattern.structural.bridge.color.service.impl.BlueColorServiceImpl;
+import com.wulibao.provider.design.pattern.structural.bridge.color.service.impl.RedColorServiceImpl;
 
 /**
  * 桥接模式

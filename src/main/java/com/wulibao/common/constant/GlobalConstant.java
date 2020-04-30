@@ -1,4 +1,4 @@
-package com.wulis.common.constant;
+package com.wulibao.common.constant;
 
 /**
  * @author WuliBao

@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.creational.abstracted.factory;
+package com.wulibao.provider.design.pattern.creational.abstracted.factory;
 
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit.SuitService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit.impl.SuitOneServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit.impl.SuitTwoServiceImpl;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.suit.SuitService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.suit.impl.SuitOneServiceImpl;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.suit.impl.SuitTwoServiceImpl;
 
 /**
  * 抽象工厂设计模式

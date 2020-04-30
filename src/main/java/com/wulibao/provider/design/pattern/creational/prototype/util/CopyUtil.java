@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.prototype.util;
+package com.wulibao.provider.design.pattern.creational.prototype.util;
 
 import java.io.*;
 

@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.structural.proxy;
+package com.wulibao.provider.design.pattern.structural.proxy;
 
-import com.wulibao.provider.test.design.pattern.structural.proxy.dance.ProxyDance;
-import com.wulibao.provider.test.design.pattern.structural.proxy.dance.service.Dance;
-import com.wulibao.provider.test.design.pattern.structural.proxy.dance.service.impl.DanceImpl;
+import com.wulibao.provider.design.pattern.structural.proxy.dance.ProxyDance;
+import com.wulibao.provider.design.pattern.structural.proxy.dance.service.Dance;
+import com.wulibao.provider.design.pattern.structural.proxy.dance.service.impl.DanceImpl;
 
 /**
  * 代理模式

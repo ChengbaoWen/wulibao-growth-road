@@ -1,7 +1,7 @@
-package com.wulibao.provider.test.design.pattern.structural.decorator;
+package com.wulibao.provider.design.pattern.structural.decorator;
 
-import com.wulibao.provider.test.design.pattern.structural.decorator.car.decorator.SedanCarDecorator;
-import com.wulibao.provider.test.design.pattern.structural.decorator.car.service.impl.SedanCar;
+import com.wulibao.provider.design.pattern.structural.decorator.car.decorator.SedanCarDecorator;
+import com.wulibao.provider.design.pattern.structural.decorator.car.service.impl.SedanCar;
 
 /**
  * 装饰器模式

@@ -1,4 +1,4 @@
-package com.wulis.common.utils;
+package com.wulibao.common.utils;
 
 import java.io.*;
 

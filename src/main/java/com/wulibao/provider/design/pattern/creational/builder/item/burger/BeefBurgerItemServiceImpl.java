@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item.burger;
+package com.wulibao.provider.design.pattern.creational.builder.item.burger;
 
 /**
  * @author WuliBao

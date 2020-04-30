@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item.burger;
+package com.wulibao.provider.design.pattern.creational.builder.item.burger;
 
-import com.wulibao.provider.test.design.pattern.creational.builder.item.ItemService;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.pack.PackService;
-import com.wulibao.provider.test.design.pattern.creational.builder.item.pack.impl.WrapperPackServiceImpl;
+import com.wulibao.provider.design.pattern.creational.builder.item.ItemService;
+import com.wulibao.provider.design.pattern.creational.builder.item.pack.PackService;
+import com.wulibao.provider.design.pattern.creational.builder.item.pack.impl.WrapperPackServiceImpl;
 
 /**
  * @author WuliBao

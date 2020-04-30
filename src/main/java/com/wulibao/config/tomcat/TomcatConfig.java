@@ -1,4 +1,4 @@
-package com.wulis.config.tomcat;
+package com.wulibao.config.tomcat;
 
 import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory;
 import org.springframework.boot.web.server.WebServerFactoryCustomizer;

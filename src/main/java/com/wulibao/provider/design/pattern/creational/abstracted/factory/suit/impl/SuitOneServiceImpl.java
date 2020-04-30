@@ -1,12 +1,12 @@
-package com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit.impl;
+package com.wulibao.provider.design.pattern.creational.abstracted.factory.suit.impl;
 
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.clothes.impl.BlueClothesServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.clothes.ClothesService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.shoes.impl.BlueShoseServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.shoes.ShoseService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.suit.SuitService;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.trousers.impl.BlueTrousersServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.abstracted.factory.trousers.TrousersService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.clothes.impl.BlueClothesServiceImpl;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.clothes.ClothesService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.shoes.impl.BlueShoseServiceImpl;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.shoes.ShoseService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.suit.SuitService;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.trousers.impl.BlueTrousersServiceImpl;
+import com.wulibao.provider.design.pattern.creational.abstracted.factory.trousers.TrousersService;
 
 /**
  * @author WuliBao

@@ -1,8 +1,8 @@
-package com.wulibao.provider.test.design.pattern.creational.factory;
+package com.wulibao.provider.design.pattern.creational.factory;
 
-import com.wulibao.provider.test.design.pattern.creational.factory.color.impl.BlueServiceImpl;
-import com.wulibao.provider.test.design.pattern.creational.factory.color.ColorService;
-import com.wulibao.provider.test.design.pattern.creational.factory.color.impl.RedServiceImpl;
+import com.wulibao.provider.design.pattern.creational.factory.color.impl.BlueServiceImpl;
+import com.wulibao.provider.design.pattern.creational.factory.color.ColorService;
+import com.wulibao.provider.design.pattern.creational.factory.color.impl.RedServiceImpl;
 
 /**
  * 工厂设计模式

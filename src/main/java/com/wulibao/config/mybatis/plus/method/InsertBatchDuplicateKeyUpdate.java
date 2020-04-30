@@ -1,6 +1,6 @@
-package com.wulis.config.mybatis.plus.method;
+package com.wulibao.config.mybatis.plus.method;
 
-import static com.wulis.config.mybatis.plus.method.InsertDuplicateKeyUpdate.prepareFieldSql;
+import static com.wulibao.config.mybatis.plus.method.InsertDuplicateKeyUpdate.prepareFieldSql;
 
 import org.apache.ibatis.executor.keygen.Jdbc3KeyGenerator;
 import org.apache.ibatis.executor.keygen.KeyGenerator;

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.facade.color.service.impl;
+package com.wulibao.provider.design.pattern.structural.facade.color.service.impl;
 
-import com.wulibao.provider.test.design.pattern.structural.facade.color.service.ColorDraw;
+import com.wulibao.provider.design.pattern.structural.facade.color.service.ColorDraw;
 
 /**
  * @author WuliBao

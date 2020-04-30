@@ -1,4 +1,4 @@
-package com.wulis.common.support;
+package com.wulibao.common.support;
 
 import org.springframework.web.bind.annotation.RestController;
 
@@ -7,5 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class BaseController {
-    
+
 }

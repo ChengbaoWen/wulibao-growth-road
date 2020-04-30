@@ -1,9 +1,9 @@
-package com.wulis.common.utils;
+package com.wulibao.common.utils;
 
 import java.time.LocalDateTime;
 
-import com.wulis.common.model.emuns.DeletedStateEnum;
-import com.wulis.common.model.entity.BaseEntity;
+import com.wulibao.common.model.emuns.DeletedStateEnum;
+import com.wulibao.common.model.entity.BaseEntity;
 
 /**
  * @author WuliBao

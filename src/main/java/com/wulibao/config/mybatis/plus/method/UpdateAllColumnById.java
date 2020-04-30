@@ -1,4 +1,4 @@
-package com.wulis.config.mybatis.plus.method;
+package com.wulibao.config.mybatis.plus.method;
 
 import java.util.function.Predicate;
 
@@ -16,7 +16,6 @@ import com.baomidou.mybatisplus.core.toolkit.sql.SqlScriptUtils;
  * @date 2020-04-07
  */
 public class UpdateAllColumnById extends AbstractMethod {
-    private Predicate<TableFieldInfo> predicate = null;
     
     @Override
     public MappedStatement injectMappedStatement(Class<?> mapperClass, Class<?> modelClass, TableInfo tableInfo) {
@@ -36,8 +35,7 @@ public class UpdateAllColumnById extends AbstractMethod {
     }
     
     private Predicate<TableFieldInfo> getPredicate() {
-        Predicate<TableFieldInfo> noLogic = (t) -> !t.isLogicDelete();
-        return this.predicate != null ? noLogic.and(this.predicate) : noLogic;
+        return (t) -> !t.isLogicDelete();
     }
     
     @Override

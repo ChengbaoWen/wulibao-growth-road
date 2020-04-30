@@ -1,13 +1,13 @@
-package com.wulis.config.mybatis.plus;
+package com.wulibao.config.mybatis.plus;
 
 import java.util.List;
 
 import com.baomidou.mybatisplus.core.injector.AbstractMethod;
 import com.baomidou.mybatisplus.core.injector.DefaultSqlInjector;
-import com.wulis.config.mybatis.plus.method.InsertBatch;
-import com.wulis.config.mybatis.plus.method.InsertBatchDuplicateKeyUpdate;
-import com.wulis.config.mybatis.plus.method.InsertDuplicateKeyUpdate;
-import com.wulis.config.mybatis.plus.method.UpdateAllColumnById;
+import com.wulibao.config.mybatis.plus.method.InsertBatch;
+import com.wulibao.config.mybatis.plus.method.InsertBatchDuplicateKeyUpdate;
+import com.wulibao.config.mybatis.plus.method.InsertDuplicateKeyUpdate;
+import com.wulibao.config.mybatis.plus.method.UpdateAllColumnById;
 
 /**
  * @author WuliBao

@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.factory.color;
+package com.wulibao.provider.design.pattern.creational.factory.color;
 
 /**
  * @author WuliBao

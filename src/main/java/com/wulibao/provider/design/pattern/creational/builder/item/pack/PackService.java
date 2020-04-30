@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.item.pack;
+package com.wulibao.provider.design.pattern.creational.builder.item.pack;
 
 /**
  * @author WuliBao

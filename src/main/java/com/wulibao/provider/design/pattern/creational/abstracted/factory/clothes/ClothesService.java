@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.creational.abstracted.factory.clothes;
+package com.wulibao.provider.design.pattern.creational.abstracted.factory.clothes;
 
 /**
  * @author WuliBao

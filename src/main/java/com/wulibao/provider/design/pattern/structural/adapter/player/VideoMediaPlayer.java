@@ -1,12 +1,12 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player;
+package com.wulibao.provider.design.pattern.structural.adapter.player;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.video.adapter.AudioMediaAdapter;
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service.VideoMediaService;
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service.impl.Mp4AudioPlayer;
-import com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service.impl.RmvbAudioPlayer;
+import com.wulibao.provider.design.pattern.structural.adapter.player.video.adapter.AudioMediaAdapter;
+import com.wulibao.provider.design.pattern.structural.adapter.player.video.service.VideoMediaService;
+import com.wulibao.provider.design.pattern.structural.adapter.player.video.service.impl.Mp4AudioPlayer;
+import com.wulibao.provider.design.pattern.structural.adapter.player.video.service.impl.RmvbAudioPlayer;
 
 /**
  * 播放器

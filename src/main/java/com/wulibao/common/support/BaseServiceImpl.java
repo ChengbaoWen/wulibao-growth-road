@@ -1,4 +1,4 @@
-package com.wulis.common.support;
+package com.wulibao.common.support;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 

@@ -1,4 +1,4 @@
-package com.wulis.config.mybatis.plus.method;
+package com.wulibao.config.mybatis.plus.method;
 
 import java.util.List;
 import java.util.function.Predicate;
@@ -24,7 +24,7 @@ import com.baomidou.mybatisplus.core.toolkit.sql.SqlScriptUtils;
  */
 public class InsertBatch extends AbstractMethod {
     
-    private Predicate<TableFieldInfo> predicate = null;
+    private final Predicate<TableFieldInfo> predicate = null;
     
     @Override
     public MappedStatement injectMappedStatement(Class<?> mapperClass, Class<?> modelClass, TableInfo tableInfo) {

@@ -1,9 +1,9 @@
-package com.wulibao.provider.test.design.pattern.creational.builder.meal;
+package com.wulibao.provider.design.pattern.creational.builder.meal;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.wulibao.provider.test.design.pattern.creational.builder.item.ItemService;
+import com.wulibao.provider.design.pattern.creational.builder.item.ItemService;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service.impl;
+package com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service.impl;
 
-import com.wulibao.provider.test.design.pattern.behavioral.chain.responsibility.service.BaseAnimalChain;
+import com.wulibao.provider.design.pattern.behavioral.chain.responsibility.service.BaseAnimalChain;
 
 /**
  * @author WuliBao

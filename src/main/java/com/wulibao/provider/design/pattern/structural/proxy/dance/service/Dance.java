@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.proxy.dance.service;
+package com.wulibao.provider.design.pattern.structural.proxy.dance.service;
 
 /**
  * @author WuliBao

@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.bridge.color;
+package com.wulibao.provider.design.pattern.structural.bridge.color;
 
-import com.wulibao.provider.test.design.pattern.structural.bridge.color.service.ColorService;
+import com.wulibao.provider.design.pattern.structural.bridge.color.service.ColorService;
 
 /**
  * @author WuliBao

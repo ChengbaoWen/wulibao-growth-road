@@ -1,10 +1,10 @@
-package com.wulibao.provider.test.design.pattern.structural.filter.filter;
+package com.wulibao.provider.design.pattern.structural.filter.filter;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.service.Criteria;
+import com.wulibao.provider.design.pattern.structural.filter.filter.service.Criteria;
 
 /**
  * @author WuliBao

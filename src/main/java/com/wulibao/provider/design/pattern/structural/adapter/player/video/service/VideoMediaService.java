@@ -1,4 +1,4 @@
-package com.wulibao.provider.test.design.pattern.structural.adapter.player.video.service;
+package com.wulibao.provider.design.pattern.structural.adapter.player.video.service;
 
 /**
  * 视频播放器顶级接口

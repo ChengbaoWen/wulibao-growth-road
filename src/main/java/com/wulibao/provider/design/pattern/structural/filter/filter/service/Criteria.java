@@ -1,6 +1,6 @@
-package com.wulibao.provider.test.design.pattern.structural.filter.filter.service;
+package com.wulibao.provider.design.pattern.structural.filter.filter.service;
 
-import com.wulibao.provider.test.design.pattern.structural.filter.filter.Person;
+import com.wulibao.provider.design.pattern.structural.filter.filter.Person;
 
 /**
  * @author WuliBao
