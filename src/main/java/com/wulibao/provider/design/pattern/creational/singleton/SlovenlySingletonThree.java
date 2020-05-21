@@ -7,7 +7,7 @@ package com.wulibao.provider.design.pattern.creational.singleton;
  * @date 2020-04-26
  */
 public class SlovenlySingletonThree {
-    private static SlovenlySingletonThree instance = null;
+    private static volatile SlovenlySingletonThree instance = null;
     
     private SlovenlySingletonThree() {
         
