@@ -1,0 +1,19 @@
+package com.wulibao.provider.design.pattern.behavioral.visitor.element;
+
+import com.wulibao.provider.design.pattern.behavioral.visitor.visitor.Visitor;
+
+import lombok.Data;
+
+/**
+ * @author WuliBao
+ * @date 2020-05-26
+ */
+@Data
+public class RedElement implements Element {
+    private String color = "红色";
+    
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+}
