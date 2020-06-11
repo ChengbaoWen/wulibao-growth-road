@@ -136,7 +136,7 @@
             <version>20.0</version>
         </dependency>
 
-        <!-- jol -->
+        <!-- java object layout -->
         <dependency>
             <groupId>org.openjdk.jol</groupId>
             <artifactId>jol-core</artifactId>
