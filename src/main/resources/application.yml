@@ -46,6 +46,12 @@ spring:
         login-username: admin
         login-password: admin
 
+  redis:
+    host: treasurycloud.redis
+    password: Treasurycloud!
+    database: 15
+    port: 6379
+
 mybatis-plus:
   mapper-locations: classpath:mapper/*/*.xml
   type-aliases-package: com.wulibao.**.model.entity
