@@ -289,8 +289,13 @@ public class WulibaoApplicationTests {
     public void redisBit() {
         // 清空当前数据库
         Objects.requireNonNull(redisTemplate.getConnectionFactory()).getConnection().flushDb();
-        // geoDist:返回两个给定位置之间的距离
-        redisTemplate.opsForValue().getBit("bit", 0);
+        // setBit:对 key 所储存的字符串值，设置或清除指定偏移量上的位(bit)。
+        redisTemplate.opsForValue().setBit("bit", 0, true);
+        redisTemplate.opsForValue().setBit("bit", 1, false);
+        redisTemplate.opsForValue().setBit("bit", 2, true);
+        // getBit:对 key 所储存的字符串值，获取指定偏移量上的位(bit)。
+        Boolean zero = redisTemplate.opsForValue().getBit("bit", 0);
+        Boolean one = redisTemplate.opsForValue().getBit("bit", 1);
     }
     
 }
